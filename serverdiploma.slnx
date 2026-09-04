@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="serverdiploma/serverdiploma.vcxproj" Id="e0da6e63-f340-4b35-8828-82ae2528d835" />
+</Solution>
