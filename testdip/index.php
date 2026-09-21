@@ -437,7 +437,7 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <script>
-        const SERVER_URL = 'http://192.168.1.37:8080';
+        const SERVER_URL = 'http://localhost:8080';
         
         function showLoading(task) {
             document.getElementById(task + 'Loading').style.display = 'block';
